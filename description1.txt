@@ -1,0 +1,175 @@
+Bison: Bison are large, humpbacked mammals known for their massive size and shaggy fur. They are native to North America and are often associated with the open grasslands of the American West.
+
+Gazelle: Gazelles are slender, graceful antelopes found in various parts of Africa and Asia. They are known for their speed and agility, making them a common sight in savannas and deserts.
+
+Lemur: Lemurs are a type of primate that is endemic to Madagascar. They are known for their wide, expressive eyes and long, bushy tails.
+
+Sloth: Sloths are slow-moving, tree-dwelling mammals found in Central and South America. They are known for their relaxed and lethargic lifestyle.
+
+Hyena: Hyenas are carnivorous mammals known for their distinctive laughter-like vocalizations. They are often associated with scavenging and are found in parts of Africa and Asia.
+
+Meerkat: Meerkats are small, social mongooses found in the deserts of southern Africa. They are known for their upright posture and cooperative behavior in foraging and predator detection.
+
+Puma: The puma, also known as the cougar or mountain lion, is a large, solitary cat native to the Americas. They are powerful predators and have a wide range of habitats.
+
+Tapir: Tapirs are large, herbivorous mammals with distinctive prehensile snouts. They are found in Central and South America and some parts of Southeast Asia.
+
+Gecko: Geckos are a diverse group of lizards known for their ability to climb walls and ceilings due to specialized toe pads. They are found in various habitats around the world.
+
+Ocelot: Ocelots are small, spotted wild cats native to the Americas. They are known for their striking coat patterns and are often found in forested regions.
+
+Raccoon: Raccoons are adaptable, omnivorous mammals known for their distinctive facial masks and ringed tails. They are found in North and Central America.
+
+Vulture: Vultures are large birds of prey known for scavenging on carrion. They play a vital role in the ecosystem by cleaning up animal remains.
+
+Marmoset: Marmosets are small, arboreal primates found in the rainforests of South America. They are known for their claw-like nails and long tails.
+
+Wombat: Wombats are burrowing marsupials native to Australia. They have a sturdy build and are well-adapted to their underground lifestyle.
+
+Wallaby: Wallabies are smaller relatives of kangaroos and are native to Australia and nearby islands. They are known for their hopping locomotion.
+
+Octopus: Octopuses are highly intelligent marine animals with soft bodies and multiple tentacles. They are known for their ability to change color and texture.
+
+Armadillo: Armadillos are small mammals with protective armored shells. They are found in the Americas and are known for their burrowing habits.
+
+Caiman: Caimans are small to medium-sized crocodilians found in Central and South America. They are similar in appearance to alligators.
+
+Chipmunk: Chipmunks are small, striped rodents found in North America. They are known for their cheek pouches, which they use to store food.
+
+Guppy: Guppies are small, colorful freshwater fish often kept in home aquariums. They are known for their vibrant coloration and active swimming behavior.
+
+Hippo: Hippos are large, semi-aquatic mammals found in Africa. They are known for their massive size and powerful jaws.
+
+Iguana: Iguanas are herbivorous lizards found in Central and South America. They are known for their distinctive crest of spines along their backs.
+
+Mongoose: Mongooses are small carnivorous mammals known for their agility and ability to take on venomous snakes. They are found in Africa and Asia.
+
+Quokka: Quokkas are small marsupials native to Australia. They are known for their friendly, smiling facial expressions.
+
+Skunk: Skunks are mammals known for their ability to spray a foul-smelling liquid as a defense mechanism. They are found in the Americas.
+
+Chinchilla: Chinchillas are small, soft-furred rodents native to the Andes Mountains in South America. They are valued for their fur.
+
+Cheetah: Cheetahs are large cats known for their incredible speed and spotted coats. They are found in Africa and parts of Iran.
+
+Lemming: Lemmings are small, burrowing rodents found in the Arctic tundra. They are known for their cyclic population explosions.
+
+Puffin: Puffins are seabirds known for their colorful beaks and distinctive way of holding fish in their bills. They are found in the Northern Hemisphere.
+
+Chameleon: Chameleons are reptiles known for their ability to change color and their independently mobile eyes. They are found in Africa, Madagascar, southern Europe, and parts of Asia.
+
+Snail: Snails are gastropod mollusks known for their spiral shells. They are found in various terrestrial and aquatic habitats worldwide.
+
+Weasel: Weasels are small carnivorous mammals known for their slender bodies and keen hunting skills. They are found in North America, Europe, and Asia.
+
+Pigeon: Pigeons, also known as rock doves, are widespread birds found in urban and rural areas worldwide. They are known for their cooing calls.
+
+Platypus: Platypuses are unique monotremes found in eastern Australia. They lay eggs and are known for their webbed feet and duck-like bills.
+
+Magpie: Magpies are black and white birds known for their intelligence and melodious songs. They are found in various parts of the world.
+
+Mandrill: Mandrills are colorful primates native to the rainforests of West Africa. They are known for their vibrant facial markings.
+
+Impala: Impalas are medium-sized antelopes found in Africa. They are known for their agility and distinctive lyre-shaped horns.
+
+Prawn: Prawns are crustaceans similar to shrimp and are commonly found in marine and freshwater environments.
+
+Seahorse: Seahorses are unique fish known for their upright posture and prehensile tails. They are found in shallow waters and coral reefs.
+
+Orangutan: Orangutans are large, tree-dwelling great apes found in the rainforests of Borneo and Sumatra. They are known for their reddish-brown hair and high intelligence.
+
+Stoat: Stoats, also known as short-tailed weasels, are small carnivorous mammals found in North America, Europe, and Asia. They are skilled hunters.
+
+Haddock: Haddock is a saltwater fish found in the North Atlantic Ocean. It is commonly used in seafood dishes.
+
+Jerboa: Jerboas are small jumping rodents found in deserts of Asia and Africa. They are known for their long hind legs and kangaroo-like jumping.
+
+Gannet: Gannets are large seabirds known for their striking white plumage and exceptional diving abilities. They are found in the North Atlantic.
+
+Narwhal: Narwhals are medium-sized whales known for their long, spiral tusks that can grow up to 10 feet in length. They are found in Arctic waters.
+
+Dhole: Dholes, also known as wild dogs or Asiatic wild dogs, are social carnivores found in Asia. They are skilled hunters and live in packs.
+
+Tapeworm: Tapeworms are parasitic flatworms that can infest the intestines of various animals, including humans.
+
+Firefly: Fireflies are bioluminescent insects known for their ability to produce light through a chemical reaction. They are often seen in the evening, especially during the summer.
+
+Dugong: Dugongs are large marine mammals related to manatees. They are herbivores and are found in the coastal waters of the Indian and western Pacific Oceans.
+
+Wallaroo: Wallaroos are intermediate-sized marsupials found in Australia. They are known for their robust build and are closely related to kangaroos.
+
+Genet: Genets are small carnivorous mammals found in Africa and parts of Europe. They are known for their slender bodies and spotted fur.
+
+Dik-Dik: Dik-diks are tiny antelopes found in East Africa. They are known for their small size and distinctive snout.
+
+Okapi: Okapis are rare forest-dwelling ungulates found in the Democratic Republic of Congo. They are known for their zebra-like stripes on their legs.
+
+Emu: Emus are large flightless birds native to Australia. They are known for their long legs and powerful running capabilities.
+
+Quail: Quails are small, ground-dwelling birds found in various parts of the world. They are often hunted for their game meat.
+
+Finch: Finches are small, seed-eating songbirds found in many regions. They are known for their colorful plumage and diverse species.
+
+Anemone: Anemones are marine animals that can be found in various ocean habitats. They are known for their colorful, tentacle-like structures and symbiotic relationships with clownfish.
+
+Tarsier: Tarsiers are small primates with large eyes and the ability to rotate their heads almost 180 degrees. They are found in Southeast Asia.
+
+Ibex: Ibexes are wild goats known for their large, curved horns. They are found in mountainous regions in Europe, Asia, and Africa.
+
+Quoll: Quolls are carnivorous marsupials found in Australia and New Guinea. They are known for their spotted fur and nocturnal behavior.
+
+Pangolin: Pangolins are unique mammals covered in protective scales. They are found in parts of Africa and Asia and are known for their anteater-like feeding habits.
+
+Manatee: Manatees, also known as sea cows, are large, slow-moving marine mammals found in warm coastal waters. They are herbivorous and known for their gentle nature.
+
+Antelope: Antelopes are a diverse group of herbivorous mammals found in various habitats across Africa, Asia, and North America.
+
+Stoat: Stoats, also known as short-tailed weasels, are small carnivorous mammals found in North America, Europe, and Asia. They are skilled hunters.
+
+Cuscus: Cuscuses are arboreal marsupials found in New Guinea and parts of northern Australia. They are known for their long, bushy tails.
+
+Vicuna: Vicunas are South American camelids known for their fine, soft wool. They are found in the high altitudes of the Andes.
+
+Lemming: Lemmings are small, burrowing rodents found in the Arctic tundra. They are known for their cyclic population explosions.
+
+Tadpole: Tadpoles are the aquatic larval stage of frogs and toads. They have tails and undergo metamorphosis to become adult amphibians.
+
+Marmot: Marmots are large ground-dwelling squirrels found in mountainous regions. They are known for their whistling alarm calls.
+
+Mandrill: Mandrills are colorful primates native to the rainforests of West Africa. They are known for their vibrant facial markings.
+
+Wapiti: Wapiti, also known as elk, are large deer species found in North America and parts of Asia. They are known for their impressive antlers.
+
+Aardvark: Aardvarks are nocturnal, burrowing mammals found in Africa. They are insectivores and are known for their long snouts.
+
+Gaur: Gaurs are large wild cattle native to South and Southeast Asia. They are the largest of all wild cattle species.
+
+Mole: Moles are small, burrowing mammals known for their adapted forelimbs and subterranean lifestyle. They are found in various regions.
+
+Tarsier: Tarsiers are small primates with large eyes and the ability to rotate their heads almost 180 degrees. They are found in Southeast Asia.
+
+Okapi: Okapis are rare forest-dwelling ungulates found in the Democratic Republic of Congo. They are known for their zebra-like stripes on their legs.
+
+Narwhal: Narwhals are medium-sized whales known for their long, spiral tusks that can grow up to 10 feet in length. They are found in Arctic waters.
+
+Dhole: Dholes, also known as wild dogs or Asiatic wild dogs, are social carnivores found in Asia. They are skilled hunters and live in packs.
+
+Wallaroo: Wallaroos are intermediate-sized marsupials found in Australia. They are known for their robust build and are closely related to kangaroos.
+
+Pangolin: Pangolins are unique mammals covered in protective scales. They are found in parts of Africa and Asia and are known for their anteater-like feeding habits.
+
+Gannet: Gannets are large seabirds known for their striking white plumage and exceptional diving abilities. They are found in the North Atlantic.
+
+Ibex: Ibexes are wild goats known for their large, curved horns. They are found in mountainous regions in Europe, Asia, and Africa.
+
+Genet: Genets are small carnivorous mammals found in Africa and parts of Europe. They are known for their slender bodies and spotted fur.
+
+Quokka: Quokkas are small marsupials native to Australia. They are known for their friendly, smiling facial expressions.
+
+Seahorse: Seahorses are unique fish known for their upright posture and prehensile tails. They are found in shallow waters and coral reefs.
+
+Orangutan: Orangutans are large, tree-dwelling great apes found in the rainforests of Borneo and Sumatra. They are known for their reddish-brown hair and high intelligence.
+
+Jerboa: Jerboas are small jumping rodents found in deserts of Asia and Africa. They are known for their long hind legs and kangaroo-like jumping.
+
+Prawn: Prawns are crustaceans similar to shrimp and are commonly found in marine and freshwater environments.

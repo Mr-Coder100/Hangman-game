@@ -1,0 +1,63 @@
+Hyderabad
+Goa
+Kolkata
+Gujarat
+Chennai
+Uttarakhand
+Jaipur
+Kerala
+Ahmedabad
+Madhya Pradesh
+Bengaluru
+Bhubaneswar
+Patna
+Lucknow
+Gurgaon
+Visakhapatnam
+Kanpur
+Varanasi
+Maharashtra
+Surat
+Indore
+Dehradun
+Pune
+Chandigarh
+Tamil Nadu
+Bihar
+Telangana
+Gaya
+Agra
+Uttar Pradesh
+Kochi
+Punjab
+Rajasthan
+Bhopal
+Delhi
+Haryana
+Karnataka
+Odisha
+Nagpur
+Himachal Pradesh
+Jharkhand
+Andhra Pradesh
+Ranchi
+Ghaziabad
+Srinagar
+Aurangabad
+Mizoram
+Tripura
+Arunachal Pradesh
+Manipur
+Nagaland
+Chhattisgarh
+Assam
+Thiruvananthapuram
+Gangtok
+Puducherry
+Port Blair
+Leh
+Kargil
+Daman
+Silvassa
+Kavaratti
+Moradabad
